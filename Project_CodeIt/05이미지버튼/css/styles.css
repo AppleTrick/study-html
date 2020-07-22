@@ -1,0 +1,27 @@
+body {
+  margin: 50px 0;
+}
+
+h1 {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+div {
+	text-align: center;
+}
+
+.link_container {
+	text-align: center;
+}
+.link_container_2 {
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.link_container_2 a:not(:last-child) {
+	margin-right: 20px
+}
+.link_container a:not(:last-child) {
+	margin-right: 20px
+}

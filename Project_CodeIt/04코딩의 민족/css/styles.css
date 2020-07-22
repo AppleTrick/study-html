@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+	src: url(../fonts/BMJUA_otf.otf);
+	font-family: Baemin;
+}
+body {
+	font-family: Baemin;
+	background-color: #F0E8D9;
+}
+.main_form{
+	width: 660px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.secter{
+	width: 300px;
+	background-color: white;
+	border-radius: 10px;
+	margin-bottom: 50px;
+	margin-right: 15px;
+	margin-left: 15px;
+	overflow: hidden;
+	float: left;
+}
+.secter_text{
+	padding: 20px;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	font-size: 64px;
+	margin-top: 75px;
+	margin-bottom: 30px;
+	color: #58595b;
+}
+h2 {
+	text-align: center;
+	font-size: 32px;
+	color: #58595b;
+	shape-margin: 75px;
+}	
+.secter h3 {
+	color: #58595b;
+	font-size: 32px;
+	margin-top: 0;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.secter p {
+	color: #58595b;
+	font-size: 16px;
+	margin-top: 0;
+	margin-bottom: 16px;
+	text-align: left;
+}
+.linkd{
+	text-decoration: none;
+	text-align: left;
+	margin-top: 16px;
+}
